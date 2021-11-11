@@ -1,4 +1,4 @@
-# GitHub Note
+# GitHub note
 
 ## リポジトリサイズの調べ方
 ```
