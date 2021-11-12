@@ -1,4 +1,4 @@
-# Minicondaの使い方
+# Miniconda note
 
 作成日：February 21th, 2021  
 更新日：-
