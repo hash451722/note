@@ -9,7 +9,7 @@ $ uvicorn app:app --port 8080  --reload
 
 または、次のPythonファイルを実行
 
-```
+```Python
 from fastapi import FastAPI
 import uvicorn
  
