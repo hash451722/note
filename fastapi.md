@@ -7,7 +7,7 @@
 $ uvicorn app:app --port 8080  --reload 
 ```
 
-または、次のPythonファイルを実行
+または、次のPythonファイル(run.py)を実行
 
 ```Python
 from fastapi import FastAPI
@@ -17,4 +17,8 @@ app = FastAPI()
 
 if __name__ == '__main__':
     uvicorn.run(app=app, port=8080, reload=True)
+```
+
+```shell
+$ python run.py
 ```
