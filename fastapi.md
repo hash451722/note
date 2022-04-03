@@ -7,7 +7,7 @@
 $ uvicorn app:app --port 8080  --reload 
 ```
 
-または、次のPythonファイル(run.py)を実行
+または、次のPythonファイル(app.py)を実行
 
 ```Python
 from fastapi import FastAPI
