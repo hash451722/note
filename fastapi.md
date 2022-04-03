@@ -19,6 +19,6 @@ if __name__ == '__main__':
     uvicorn.run(app=app, port=8080, reload=True)
 ```
 
-```shell
+```Shell
 $ python run.py
 ```
