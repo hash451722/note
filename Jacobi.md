@@ -16,16 +16,13 @@ $$
     \vdots & \vdots & \ddots & \vdots \\
     a_{n1} & a_{n2} & \dots  & a_{nn}
 \end{pmatrix}
-
 \begin{pmatrix} 
     x_{1} \\
     x_{2} \\
     \vdots \\
     x_{n}
 \end{pmatrix}
-
 =
-
 \begin{pmatrix} 
     b_{1} \\
     b_{2} \\
